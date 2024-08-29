@@ -6,3 +6,4 @@
 - Typescript
 - Tailwind CSS
 - Shadcn UI
+- Clerk (For Auth)
